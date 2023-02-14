@@ -1,5 +1,5 @@
 
-This is a data analysis case study. My thought process is documented alongside the code within the single Jupyter Notebook file that can be found in this repository.
+This is a data analysis case study. The Jupyter Notebook file that can be found in this repository is heavily annotated and documents all of my thought process. 
 
 **Scenario**
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused
