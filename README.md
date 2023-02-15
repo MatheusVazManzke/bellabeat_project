@@ -10,7 +10,7 @@ Bellabeat’s products and analyze smart device data to gain insight into how co
 insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat
 executive team along with your high-level recommendations for Bellabeat’s marketing strategy
 
-The following data set will be used:
+The following dataset will be used:
 ● FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius): This Kaggle data set
 contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of
 personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes
